@@ -53,3 +53,6 @@ const facebookusers = [{
 },
 ]
    console.log(facebookusers)
+
+   const person = "goodday"
+   console.log(person)

@@ -56,3 +56,23 @@ const facebookusers = [{
 
    const person = "goodday"
    console.log(person)
+
+   const student =[
+        {   "name": "Bayo Alabi",
+            "age" : 14,
+            "class" : "ss3",
+            "gender" : "female",
+        },
+        {   "name": "Taye Taiwo",
+            "age" : 15,
+            "class" : "ss1",
+            "gender" : "male",
+        },
+        {        "name": "Ojo Micheal",
+            "age" : 13,
+            "class" : "ss2",
+            "gender" : "male",
+        },
+   ]
+
+   console.log(student)
